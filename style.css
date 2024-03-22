@@ -1,0 +1,136 @@
+.mam{
+     height:500px; 
+     width:850px; 
+     border:rgb(31, 48, 31) 10px  solid;
+}
+html{
+     scroll-behavior: smooth;
+}
+header{
+      text-align:center;
+       }
+     
+header a {
+     font-size:10;
+    margin: 8px;
+    border: 1px solid rgb(23, 36, 23);
+    border-radius: 9px;
+    padding: 5px;
+     text-decoration: none;
+      
+    
+}
+body{
+     background-color: rgb(48, 66, 41);
+}
+.coffee-block{
+     font-size:20px;
+     text-align:center;
+      color: rgb(230, 240, 229);
+      background-color:  rgb(41, 56, 40);
+      
+}
+.coffee-block h1{
+    font-size:35px;
+     text-decoration: underline; 
+}
+ nav a {
+     color:  rgb(187, 209, 186);
+     font-size:22px;
+     text-align:center;
+}
+.cafe-block{
+      font-size:20px;
+     text-align:center;
+      color: rgb(230, 240, 229);
+       background-color: rgb(41, 56, 40);
+}
+.cafe-block h2{
+     font-size:35px;
+     text-decoration: underline;
+}
+.dad{
+   height:700px; 
+     width:850px;
+     text-align:center;
+      border:rgb(31, 48, 31) 10px  solid;
+    
+}
+.menu-block{
+      font-size:20px;
+     text-align:center;
+      color: rgb(230, 240, 229);
+       background-color: rgb(41, 56, 40);
+}
+.menu-block h3{
+     font-size:35px;
+     text-decoration: underline;
+
+}
+.goat{
+      height:350px; 
+     width:390px;
+     text-align:center;  
+      border:rgb(31, 48, 31) 10px  solid;
+}
+.we-block{
+      font-size:20px;
+     text-align:center;
+      color: rgb(230, 240, 229);
+       background-color: rgb(41, 56, 40);
+}
+.we-block h4{
+     font-size:35px;
+     text-decoration: underline;
+}
+.cat{
+     height:450px; 
+     width:650px; 
+     text-align:center;
+      border:rgb(31, 48, 31) 10px  solid;
+}
+
+.number-block{
+  font-size:40px;
+     text-align:center;
+      color: rgb(230, 240, 229);
+       background-color: rgb(41, 56, 40);
+}
+.number-block h5{
+      font-size:35px;
+     text-decoration: underline;
+}
+footer {
+    background-color:rgb(52, 63, 49);
+    padding: 10px;
+}
+
+footer p {
+    background-color:rgb(41, 56, 40);
+    padding: 15px;
+     
+     color: rgb(199, 218, 200);
+     
+}
+h1 p{
+    font-size:20px; 
+     text-align:center;
+}
+h2 p{
+    font-size:20px; 
+      text-align:center;
+}
+h4 p{
+    font-size:20px;
+      text-align:center; 
+}
+header img {
+    width: 55px;
+    height: 55px
+}
+.tea{
+  height:500px; 
+     width:850px;
+      text-align:center; 
+      border:rgb(38, 54, 38) 10px  solid;
+}
