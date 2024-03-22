@@ -1,0 +1,54 @@
+<html>
+  <head><title>Кав'ярня</title></head>
+<body>
+      <header>
+           <img src="https://i.pinimg.com/564x/bf/2c/7c/bf2c7c66af4e484e6fb639306a5234fc.jpg">
+           <nav>
+<a href="#Kavyarnya">Кав'ярня</a> 
+<a href="#Menu">Меню</a> 
+<a href="#Vid">Зовнішній вид</a> 
+<a href="#Mu">Де ми є</a>  
+ <a href="#Zvyazatus">Зв`язатися</a>
+           </nav> 
+            <div class="coffee-block">                        
+          <h1 id="Kavyarnya">Кав'ярня</h1>
+          <p>Вітаємо в нашій кав'ярні!Тут ви можете розслабитися,поїсти,попрацювати та  випити смачної кави.Вас буде обслуговувати наш дружній колектив який рад вам у будь-який час)
+            <img class="mam" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxfFXBRG4chasYawykaLv2Gnaz1Od5ikePmxXXp0tgmDNLGEINha5I4zLmUcTY5UUTX_M&usqp=CAU">
+                
+</p>
+  </div>
+            </header>
+            <main>
+              <div class="cafe-block">    
+               <h2 id="Menu">Меню</h2>
+                <p>Ознайомтесь з нашим меню
+</p>
+                 <img class="dad" src="https://stanislaviv.com.ua/wp-content/uploads/furschet_navchalnyy.jpg">
+                 </div>
+                  <div class="menu-block">
+                 <h3  id="Vid">Зовнішній вид</h3>
+                  <img class="goat" src="https://cdn.informator.ua/@dp/media/ua/2021/07/14/60ee8cc2db3bd2.17525211.jpg">
+                  <img class="goat" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOAXIWh7wOCLsKBbDBRnd2lIe1foMkNFCZ_jiYpRr7sAfsKeJ-tkQIJzSs6q1vksD5jxA&usqp=CAU">
+                  </div>
+                   <div class="we-block">
+                  <h4  id="Мu">Де ми є</h4>
+                  <p>Ми є майже по всій Україні!</p>
+                
+
+                  <img class="cat" src="https://voda-sribna.com.ua/wp-content/themes/sribna/img/mobile_map.png">
+                     </div>
+                   <div class="number-block">
+                  <h5 id="Zvyazatus">Зв`язатися</h5>
+                  </div>
+                    </main>
+                 
+
+                 <footer>
+            <p><b><i>Контакти</i></b></p>
+            <p>Номер менеджера:########</p>
+            <p>Пошта:#######@gmail/com</p>
+             <img class="tea" src="https://i.pinimg.com/564x/4e/7a/5b/4e7a5b1e952c2887a777b18a66f7e9df.jpg">
+        </footer>
+    </body>
+</html>
+
