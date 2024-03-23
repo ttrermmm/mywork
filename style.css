@@ -34,10 +34,16 @@ body{
     font-size:35px;
      text-decoration: underline; 
 }
- nav a {
+nav a {
      color:  rgb(187, 209, 186);
      font-size:22px;
      text-align:center;
+      transition: 0.3s ease;
+}
+
+nav a:hover {
+     font-size: 25px;
+     transform: scale(1.1);
 }
 .cafe-block{
       font-size:20px;
